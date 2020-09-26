@@ -86,7 +86,7 @@ public class Rule : CopyInitializable, Decodable, CustomStringConvertible {
 
     public required convenience init(from decoder: Decoder) throws {
         let rule = try Rule.decode(from: decoder)
-        self.init(copy: rule)
+        self.init(copy: rule as! Self)
     }
     
     public func rule(with name: String) -> Rule? {
