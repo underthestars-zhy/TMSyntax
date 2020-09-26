@@ -34,7 +34,7 @@ class FirstMateTests: XCTestCase {
     
     static override func setUp() {
         do {
-            self.resourceDir = Resources.shared.path("first-mate")
+            self.resourceDir = Bundle.module.resourceURL
             let testsJSONData = try Data(contentsOf: resourceDir.appendingPathComponent("tests.json"))
             let decoder = FineJSONDecoder()
             self.testsJSON = try decoder.decode([TestDefinition].self, from: testsJSONData)
@@ -119,6 +119,7 @@ class FirstMateTests: XCTestCase {
 
         let grammarRepository = GrammarRepository()
         for path in def.grammars {
+
             try grammarRepository.loadGrammar(path: dir.appendingPathComponent(path))
         }
         

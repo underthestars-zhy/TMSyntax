@@ -1,10 +1,10 @@
 import XCTest
 import TMSyntax
 
-let jsonSyntaxPath = Resources.shared.path("Syntaxes/JSON.tmLanguage.json")
-let xmlSyntaxPath = Resources.shared.path("Syntaxes/xml.tmLanguage.json")
-let pythonSyntaxPath = Resources.shared.path("Syntaxes/MagicPython.tmLanguage.json")
-let phpSyntaxPath = Resources.shared.path("Syntaxes/php.tmLanguage.json")
+let jsonSyntaxPath = Bundle.module.url(forResource: "JSON.tmLanguage", withExtension: "json")!
+let xmlSyntaxPath = Bundle.module.url(forResource: "xml.tmLanguage", withExtension: "json")!
+let pythonSyntaxPath = Bundle.module.url(forResource: "MagicPython.tmLanguage", withExtension: "json")!
+let phpSyntaxPath = Bundle.module.url(forResource: "php.tmLanguage", withExtension: "json")!
 
 class ParserTests: XCTestCase {    
     func test1() throws {

@@ -1,6 +1,6 @@
 [
 	{
-		"grammarPath": "fixtures/hello.json",
+		"grammarPath": "hello.json",
 		"lines": [
 			{
 				"line": "hello world!",
@@ -37,17 +37,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/hello.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"hello.json"
 		],
 		"desc": "TEST #3"
 	},
@@ -68,16 +68,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #4"
 	},
@@ -114,16 +114,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #5"
 	},
@@ -144,16 +144,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #6"
 	},
@@ -215,16 +215,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #7"
 	},
@@ -261,16 +261,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #8"
 	},
@@ -327,16 +327,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #9"
 	},
@@ -357,16 +357,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #10"
 	},
@@ -437,16 +437,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #11"
 	},
@@ -547,16 +547,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #12"
 	},
@@ -576,16 +576,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #13"
 	},
@@ -606,16 +606,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #14"
 	},
@@ -636,16 +636,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #15"
 	},
@@ -672,16 +672,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #16"
 	},
@@ -734,17 +734,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/content-name.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"content-name.json"
 		],
 		"desc": "TEST #17"
 	},
@@ -766,17 +766,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/content-name.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"content-name.json"
 		],
 		"desc": "TEST #18"
 	},
@@ -805,17 +805,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/content-name.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"content-name.json"
 		],
 		"desc": "TEST #19"
 	},
@@ -866,16 +866,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #20"
 	},
@@ -912,16 +912,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #21"
 	},
@@ -970,16 +970,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #22"
 	},
@@ -1024,21 +1024,21 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #23"
 	},
 	{
-		"grammarPath": "fixtures/apply-end-pattern-last.json",
+		"grammarPath": "apply-end-pattern-last.json",
 		"lines": [
 			{
 				"line": "last",
@@ -1159,17 +1159,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/apply-end-pattern-last.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"apply-end-pattern-last.json"
 		],
 		"desc": "TEST #24"
 	},
@@ -1213,16 +1213,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #25"
 	},
@@ -1345,16 +1345,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #26"
 	},
@@ -1549,18 +1549,18 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/html-rails.json",
-			"fixtures/ruby-on-rails.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"html-rails.json",
+			"ruby-on-rails.json"
 		],
 		"desc": "TEST #27"
 	},
@@ -1681,18 +1681,18 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/html-rails.json",
-			"fixtures/ruby-on-rails.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"html-rails.json",
+			"ruby-on-rails.json"
 		],
 		"desc": "TEST #28"
 	},
@@ -1876,19 +1876,19 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/html-rails.json",
-			"fixtures/ruby-on-rails.json",
-			"fixtures/sql.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"html-rails.json",
+			"ruby-on-rails.json",
+			"sql.json"
 		],
 		"desc": "TEST #29"
 	},
@@ -1909,17 +1909,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/include-external-repository-rule.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"include-external-repository-rule.json"
 		],
 		"desc": "TEST #30"
 	},
@@ -2030,17 +2030,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/html-rails.json",
-			"fixtures/ruby-on-rails.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"html-rails.json",
+			"ruby-on-rails.json"
 		],
 		"desc": "TEST #31"
 	},
@@ -2235,24 +2235,24 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/html-rails.json",
-			"fixtures/ruby-on-rails.json",
-			"fixtures/html.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"html-rails.json",
+			"ruby-on-rails.json",
+			"html.json"
 		],
 		"desc": "TEST #32"
 	},
 	{
-		"grammarPath": "fixtures/imaginary.json",
+		"grammarPath": "imaginary.json",
 		"lines": [
 			{
 				"line": "// a singleLineComment",
@@ -2283,22 +2283,22 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/imaginary.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"imaginary.json"
 		],
 		"desc": "TEST #33"
 	},
 	{
-		"grammarPath": "fixtures/multiline.json",
+		"grammarPath": "multiline.json",
 		"lines": [
 			{
 				"line": "Xy\\",
@@ -2350,17 +2350,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/multiline.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"multiline.json"
 		],
 		"desc": "TEST #34"
 	},
@@ -2430,16 +2430,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #35"
 	},
@@ -2519,18 +2519,18 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/c.json",
-			"fixtures/c-plus-plus.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"c.json",
+			"c-plus-plus.json"
 		],
 		"desc": "TEST #36"
 	},
@@ -2661,23 +2661,23 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/c.json",
-			"fixtures/c-plus-plus.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"c.json",
+			"c-plus-plus.json"
 		],
 		"desc": "TEST #37"
 	},
 	{
-		"grammarPath": "fixtures/infinite-loop.json",
+		"grammarPath": "infinite-loop.json",
 		"lines": [
 			{
 				"line": "abc",
@@ -2698,17 +2698,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/infinite-loop.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"infinite-loop.json"
 		],
 		"desc": "TEST #38"
 	},
@@ -2846,17 +2846,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/scss.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"scss.json"
 		],
 		"desc": "TEST #39"
 	},
@@ -3025,21 +3025,21 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #42"
 	},
 	{
-		"grammarPath": "fixtures/nested-captures.json",
+		"grammarPath": "nested-captures.json",
 		"lines": [
 			{
 				"line": "ab",
@@ -3056,17 +3056,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/nested-captures.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"nested-captures.json"
 		],
 		"desc": "TEST #44"
 	},
@@ -3245,21 +3245,21 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #45"
 	},
 	{
-		"grammarPath": "fixtures/hyperlink.json",
+		"grammarPath": "hyperlink.json",
 		"lines": [
 			{
 				"line": "https://github.com",
@@ -3275,17 +3275,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/hyperlink.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"hyperlink.json"
 		],
 		"desc": "TEST #46"
 	},
@@ -3356,22 +3356,22 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/hyperlink.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"hyperlink.json"
 		],
 		"desc": "TEST #47"
 	},
 	{
-		"grammarPath": "fixtures/forever.json",
+		"grammarPath": "forever.json",
 		"lines": [
 			{
 				"line": "forever and ever",
@@ -3385,17 +3385,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/forever.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"forever.json"
 		],
 		"desc": "TEST #48"
 	},
@@ -3447,17 +3447,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/todo.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"todo.json"
 		],
 		"desc": "TEST #49"
 	},
@@ -3479,17 +3479,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/makefile.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"makefile.json"
 		],
 		"desc": "TEST #50"
 	},
@@ -3519,17 +3519,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/makefile.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"makefile.json"
 		],
 		"desc": "TEST #51"
 	},
@@ -3559,22 +3559,22 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/makefile.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"makefile.json"
 		],
 		"desc": "TEST #53"
 	},
 	{
-		"grammarPath": "fixtures/git-commit.json",
+		"grammarPath": "git-commit.json",
 		"lines": [
 			{
 				"line": "longggggggggggggggggggggggggggggggggggggggggggggggg",
@@ -3613,22 +3613,22 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/git-commit.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"git-commit.json"
 		],
 		"desc": "TEST #54"
 	},
 	{
-		"grammarPath": "fixtures/git-commit.json",
+		"grammarPath": "git-commit.json",
 		"lines": [
 			{
 				"line": "longggggggggggggggggggggggggggggggggggggggggggggggg",
@@ -3667,22 +3667,22 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/git-commit.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"git-commit.json"
 		],
 		"desc": "TEST #55"
 	},
 	{
-		"grammarPath": "fixtures/c-plus-plus.json",
+		"grammarPath": "c-plus-plus.json",
 		"lines": [
 			{
 				"line": "#include \"a.h\"",
@@ -3792,23 +3792,23 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/c.json",
-			"fixtures/c-plus-plus.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"c.json",
+			"c-plus-plus.json"
 		],
 		"desc": "TEST #56"
 	},
 	{
-		"grammarPath": "fixtures/c-plus-plus.json",
+		"grammarPath": "c-plus-plus.json",
 		"lines": [
 			{
 				"line": "#include \"a.h\"",
@@ -3918,18 +3918,18 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/c.json",
-			"fixtures/c-plus-plus.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"c.json",
+			"c-plus-plus.json"
 		],
 		"desc": "TEST #57"
 	},
@@ -4071,21 +4071,21 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #58"
 	},
 	{
-		"grammarPath": "fixtures/objective-c-plus-plus.json",
+		"grammarPath": "objective-c-plus-plus.json",
 		"lines": [
 			{
 				"line": "void test() {",
@@ -4243,20 +4243,20 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/c.json",
-			"fixtures/c-plus-plus.json",
-			"fixtures/objective-c.json",
-			"fixtures/objective-c-plus-plus.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"c.json",
+			"c-plus-plus.json",
+			"objective-c.json",
+			"objective-c-plus-plus.json"
 		],
 		"desc": "TEST #61"
 	},
@@ -4372,17 +4372,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/java.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"java.json"
 		],
 		"desc": "TEST #62"
 	},
@@ -4505,17 +4505,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/java.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"java.json"
 		],
 		"desc": "TEST #63"
 	},
@@ -4599,16 +4599,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #64"
 	},
@@ -4628,18 +4628,18 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/html-rails.json",
-			"fixtures/ruby-on-rails.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"html-rails.json",
+			"ruby-on-rails.json"
 		],
 		"desc": "TEST #65"
 	},
@@ -4676,16 +4676,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #66"
 	},
@@ -4767,17 +4767,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/json.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"json.json"
 		],
 		"desc": "TEST #67"
 	},
@@ -4834,16 +4834,16 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json"
 		],
 		"desc": "TEST #68"
 	},
@@ -5182,17 +5182,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/css.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"css.json"
 		],
 		"desc": "TEST #71"
 	},
@@ -5247,17 +5247,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/latex.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"latex.json"
 		],
 		"desc": "TEST #72"
 	},
@@ -5478,17 +5478,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/thrift.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"thrift.json"
 		],
 		"desc": "TEST #73"
 	},
@@ -5506,17 +5506,17 @@
 			}
 		],
 		"grammars": [
-			"fixtures/text.json",
-			"fixtures/javascript.json",
-			"fixtures/javascript-regex.json",
-			"fixtures/coffee-script.json",
-			"fixtures/ruby.json",
-			"fixtures/html-erb.json",
-			"fixtures/html.json",
-			"fixtures/php.json",
-			"fixtures/python.json",
-			"fixtures/python-regex.json",
-			"fixtures/loops.json"
+			"text.json",
+			"javascript.json",
+			"javascript-regex.json",
+			"coffee-script.json",
+			"ruby.json",
+			"html-erb.json",
+			"html.json",
+			"php.json",
+			"python.json",
+			"python-regex.json",
+			"loops.json"
 		],
 		"desc": "TEST #74"
 	}
