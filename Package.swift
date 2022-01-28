@@ -9,7 +9,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/omochi/FineJSON", .upToNextMajor(from: "1.0.0")),
-        .package(name: "Onigmo", url: "https://github.com/maoyama/Onigmo-swift-build", .upToNextMajor(from: "1.2.0")),
+        .package(name: "Onigmo", url: "https://github.com/underthestars-zhy/Onigmo-swift-build", .upToNextMajor(from: "1.2.1")),
     ],
     targets: [
         .target(name: "TMSyntax", dependencies: ["FineJSON", "Onigmo"]),

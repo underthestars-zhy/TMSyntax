@@ -12,11 +12,11 @@
       },
       {
         "package": "Onigmo",
-        "repositoryURL": "https://github.com/maoyama/Onigmo-swift-build",
+        "repositoryURL": "https://github.com/underthestars-zhy/Onigmo-swift-build",
         "state": {
           "branch": null,
-          "revision": "d0dd20ecbad3aa0de7083c3e522ef722ed738b8a",
-          "version": "1.2.0"
+          "revision": "bf96fa21ff2d49e95cd3ed2f549d4008c7dbb1f8",
+          "version": "1.2.1"
         }
       },
       {
